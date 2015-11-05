@@ -1,0 +1,26 @@
+{
+  "name": "govproxy",
+  "version": "1.0.0",
+  "description": "Simple express app to proxy api.usa.gov",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "json-proxy": "^0.9.1",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btholt/govproxy.git"
+  },
+  "author": "Brian Holt <bri@nho.lt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btholt/govproxy/issues"
+  },
+  "homepage": "https://github.com/btholt/govproxy#readme"
+}
